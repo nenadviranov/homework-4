@@ -1,0 +1,27 @@
+* {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+
+}
+
+.nav {
+    background-color: skyblue;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    
+    
+}
+
+a {
+    padding: 20px;
+    margin: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+nav :hover {
+    background-color: red;
+    font-weight: bold;
+}
+

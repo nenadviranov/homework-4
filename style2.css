@@ -1,0 +1,33 @@
+* {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+
+}
+
+table {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    border-collapse: collapse;
+    border-radius: 1ex;
+    overflow: hidden;
+    box-shadow: 3px 3px #888888;
+}
+
+.thead {
+    background-color: rgb(117, 108, 245);
+    color: white;
+    
+}
+
+.class1 {
+    padding: 10px 40px;
+}
+
+td {
+    padding: 10px 40px;
+}
+
+.class3 {
+    background-color: rgb(179, 245, 245);
+}
